@@ -1,0 +1,31 @@
+.container{
+  max-width: 600px;
+}
+.btn{
+  background: #DD4A48;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn:focus{
+  outline: none !important;
+}
+.a{
+    background:#97BFB4;
+    color:black;
+}
+.username{
+  font-weight: bold;
+  color:darkgoldenrod;
+
+}
+.time{
+  font-size: 0.7em;
+  color: #999;
+}
+.update-mssg{
+  text-align:center;
+  margin:20px auto;
+  font-family: cursive;
+  font-size: 5 rem;
+}
